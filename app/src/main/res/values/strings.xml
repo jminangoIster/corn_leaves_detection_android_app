@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hojas de Maiz</string>
+    <string name="tomar_una_foto">Tomar una Foto</string>
+    <string name="porcentaje">Porcentaje:</string>
+    <string name="clasificado_como">Clasificado como:</string>
+    <string name="todo">TODO</string>
+</resources>
